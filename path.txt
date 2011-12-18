@@ -1,0 +1,2 @@
+/bin/:/usr/bin/:/usr/local/bin/:/home/tonylijo/newbin/:/sbin/
+
